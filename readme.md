@@ -40,7 +40,7 @@ The project uses the following dependencies:
 2. Create a .env file in the root directory of the project and add your API key for the Beaconcha.in API as API_KEY.
 3. Run the cron.js script regularly (e.g., daily) to fetch the latest data and update the historical data file. You can do this by setting up a cron job or similar task scheduler.
 4. Start the server by running npm start. This will start the server on the port specified in your .env file or port 3000 if no port is specified.
-5. Open your web browser and navigate to http://localhost:<port> to view the data in a graphical format. Replace <port> with the port number your server is running on.
+5. Open your web browser and navigate to http://localhost:3000/entryExitData to view the data in a graphical format. Replace <port> with the port number your server is running on.
 
 # Screenshots
 

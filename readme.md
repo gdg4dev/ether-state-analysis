@@ -41,3 +41,8 @@ The project uses the following dependencies:
 3. Run the cron.js script regularly (e.g., daily) to fetch the latest data and update the historical data file. You can do this by setting up a cron job or similar task scheduler.
 4. Start the server by running npm start. This will start the server on the port specified in your .env file or port 3000 if no port is specified.
 5. Open your web browser and navigate to http://localhost:<port> to view the data in a graphical format. Replace <port> with the port number your server is running on.
+
+# Screenshots
+
+- This graph shows ethereum validators start time and end time difference with historical data
+<img width="745" alt="Screenshot 2023-12-10 at 10 44 54 PM" src="https://github.com/gdg4dev/ether-state-analysis/assets/23173443/26a8a29e-f0e1-4a7c-a90d-cd824c3ba651">
